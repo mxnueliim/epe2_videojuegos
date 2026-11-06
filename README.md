@@ -1,6 +1,6 @@
 # El Banquete Arcano (Chef Dungeon)
 
-Juego desarrollado en **GDevelop 5** para la actividad *Desarrollando un videojuego* (Módulo 2), Taller de Programación de Videojuegos (800TP06), IPChile.
+Juego desarrollado en **GDevelop 5** para la actividad *Desarrollando un videojuego* (Módulo 2), TALLER DE PROGRAMACIÓN DE VIDEOJUEGOS - 2620 (B4), IPChile.
 
 Trata sobre un chef que explora un mundo armado como un **mapa tipo laberinto** en busca de **dos ingredientes secretos** (la Miel Dorada y el Camarón Abisal) para cocinar su mejor receta. En el camino conversa con NPCs guía, recoge llaves y enfrenta distintos enemigos usando su tenedor.
 
