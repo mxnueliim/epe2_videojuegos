@@ -1,0 +1,9 @@
+# Respaldos temporales automáticos de GDevelop
+*.autosave
+.gdevelop/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
